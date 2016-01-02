@@ -1,0 +1,12 @@
+Package: chinaWeather
+Type: Package
+Title: a visualized package for china Weather
+Version: 0.1
+Authors@R: "Jun Li <775837740@qq.com> [aut,cre]"
+Description: a visualized package for china Weacher
+Depends:
+    R (>= 3.2.2)
+License: GPL-2
+LazyData: true
+Date: 2015-01-01
+RoxygenNote: 5.0.1
